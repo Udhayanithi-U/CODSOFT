@@ -1,4 +1,12 @@
 Task1_Movie_Genre_Classification/models/
-
 Task1_Movie_Genre_Classification/Genre Classification Dataset/
-Task1_Movie_Genre_Classification/models/
+
+Task2_Credit_Card_Fraud_Detection/.venv/
+Task2_Credit_Card_Fraud_Detection/__pycache__/
+Task2_Credit_Card_Fraud_Detection/src/__pycache__/
+Task2_Credit_Card_Fraud_Detection/data/*.csv
+Task2_Credit_Card_Fraud_Detection/data/*.zip
+Task2_Credit_Card_Fraud_Detection/models/*.joblib
+Task2_Credit_Card_Fraud_Detection/reports/*.csv
+Task2_Credit_Card_Fraud_Detection/reports/*.json
+Task2_Credit_Card_Fraud_Detection/reports/*.txt
