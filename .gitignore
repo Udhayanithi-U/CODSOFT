@@ -10,3 +10,12 @@ Task2_Credit_Card_Fraud_Detection/models/*.joblib
 Task2_Credit_Card_Fraud_Detection/reports/*.csv
 Task2_Credit_Card_Fraud_Detection/reports/*.json
 Task2_Credit_Card_Fraud_Detection/reports/*.txt
+Task3_Customer_Churn_Prediction/.venv/
+Task3_Customer_Churn_Prediction/__pycache__/
+Task3_Customer_Churn_Prediction/src/__pycache__/
+Task3_Customer_Churn_Prediction/data/*.csv
+Task3_Customer_Churn_Prediction/data/*.zip
+Task3_Customer_Churn_Prediction/models/*.joblib
+Task3_Customer_Churn_Prediction/reports/*.csv
+Task3_Customer_Churn_Prediction/reports/*.json
+Task3_Customer_Churn_Prediction/reports/*.txt
