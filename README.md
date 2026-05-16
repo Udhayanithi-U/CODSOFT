@@ -19,6 +19,11 @@ Folder: `Task3_Customer_Churn_Prediction`
 
 This project predicts whether a customer is likely to leave a service using customer demographics and account behavior. It includes model training, prediction scripts, a Streamlit dashboard, and a Google Colab notebook.
 
+### Task 4: Spam SMS Detection
+Folder: `Task4_Spam_SMS_Detection`
+
+This project classifies SMS messages as spam or legitimate using TF-IDF features with Naive Bayes, Logistic Regression, and Linear SVM models. It also includes a Streamlit dashboard and a Google Colab notebook.
+
 ## Note
 
-Large dataset files and trained model files are not uploaded to GitHub. Each task folder contains its own README with setup and running instructions.
+Large dataset files, trained model files, and generated prediction reports are not uploaded to GitHub. Each task folder contains its own README with setup and running instructions.

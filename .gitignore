@@ -19,3 +19,12 @@ Task3_Customer_Churn_Prediction/models/*.joblib
 Task3_Customer_Churn_Prediction/reports/*.csv
 Task3_Customer_Churn_Prediction/reports/*.json
 Task3_Customer_Churn_Prediction/reports/*.txt
+Task4_Spam_SMS_Detection/.venv/
+Task4_Spam_SMS_Detection/__pycache__/
+Task4_Spam_SMS_Detection/src/__pycache__/
+Task4_Spam_SMS_Detection/data/*.csv
+Task4_Spam_SMS_Detection/data/*.zip
+Task4_Spam_SMS_Detection/models/*.joblib
+Task4_Spam_SMS_Detection/reports/*.csv
+Task4_Spam_SMS_Detection/reports/*.json
+Task4_Spam_SMS_Detection/reports/*.txt
